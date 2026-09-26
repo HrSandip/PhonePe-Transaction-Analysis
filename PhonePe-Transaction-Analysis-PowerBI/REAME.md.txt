@@ -1,0 +1,35 @@
+
+# PhonePe Transaction Analysis Dashboard
+
+## Project Overview
+This project analyzes PhonePe transaction data using
+Microsoft Power BI to understand transaction trends,
+payment performance, and user behavior.
+
+## Dashboard Preview
+![PhonePe Dashboard](screenshots/phonepe-dashboard.png)
+
+## Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+## Dashboard Features
+- Total Transactions
+- Total Transaction Value
+- Unique Users
+- Successful Transaction Rate
+- Monthly Transaction Analysis
+- Age Group Analysis
+- Top 5 Users
+- Weekday vs Weekend Analysis
+
+## How to View
+1. Download the PBIX file.
+2. Install Microsoft Power BI Desktop.
+3. Open the PBIX file.
+4. Explore the dashboard.
+
+## Author
+Sandip Das
